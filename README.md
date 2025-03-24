@@ -215,21 +215,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - [Next.js](https://nextjs.org) for the web framework
 
 
-```plaintext
-
-## How to Create the README.md File
-
-1. In your project directory, create a new file named `README.md`
-2. Copy and paste the content above into this file
-3. Save the file
-4. If you're using GitHub Desktop or another Git client, commit and push this file to your repository
-
-If you're working directly on GitHub:
-1. Go to your repository
-2. Click "Add file" > "Create new file"
-3. Name it `README.md`
-4. Paste the content
-5. Commit the new file
-
-The README will automatically be displayed on your GitHub repository's main page and will provide comprehensive documentation for anyone who wants to use or contribute to your bot.
-```
